@@ -1,3 +1,20 @@
 main {
+    width: 2000px;
+    height: 500px;
+    transform: rotate(-10deg) skew(-10deg);
+    position: fixed;
+    top: 50px;
+}
 
+.info {
+    text-align: justify;
+}
+div .wrapper {
+    margin: -5em;
+}
+
+div h1 {
+    position: fixed;
+    top: 50px;
+    left: 325px;
 }
