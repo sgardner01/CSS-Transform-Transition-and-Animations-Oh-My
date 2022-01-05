@@ -29,7 +29,7 @@ nav {
 
 @keyframes top {
   from {transform: rotate(0deg);}
-  to {transform: rotate(45deg);}
+  to {transform: translateY(34PX) rotate(45deg);}
   
 }
 
@@ -39,7 +39,7 @@ nav {
 }
 
 @keyframes bottom {
-  from {transform-origin: rotate(0deg);}
-    to {transform: rotate(-45deg);}
+  from {transform: rotate(0deg);}
+    to {transform: translateY(-35px) rotate(-45deg);}
 }
 
